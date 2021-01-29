@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 8
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "SuperPower-Leto"
+Date "2021-01-28"
+Rev "0.1"
+Comp "SuperPower Team"
+Comment1 "Drawn By: Seth Kazarians"
 Comment2 ""
 Comment3 ""
 Comment4 ""

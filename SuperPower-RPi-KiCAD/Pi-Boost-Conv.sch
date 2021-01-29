@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 8
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "SuperPower-Leto"
+Date "2021-01-28"
+Rev "0.1"
+Comp "SuperPower Team"
+Comment1 "Drawn By: Seth Kazarians"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -643,8 +643,6 @@ F 6 "RC0603FR-07100KL" H 6550 4800 50  0001 C CNN "Mfg PN"
 	1    6550 4800
 	-1   0    0    1   
 $EndComp
-Text Notes 750  7350 0    50   ~ 0
-Alternative component values:\nL1: 4.7uH\nC12: 39n\nR5: 169k\nR3: 412k
 Wire Wire Line
 	3050 1250 3150 1250
 Wire Wire Line
@@ -770,6 +768,4 @@ F 5 "ME6210A33M3G" H 3500 900 50  0001 C CNN "Mfg PN"
 	1    2750 1250
 	1    0    0    -1  
 $EndComp
-Text Notes 4500 5600 0    50   ~ 0
-NOTE:\nC12:  Original design had 39nF. Changed to 47nF to reuse components.\nR4 & C13 values are taken from TPS61088 Eval Module schematic.
 $EndSCHEMATC

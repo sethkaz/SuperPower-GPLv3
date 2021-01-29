@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 8 8
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "SuperPower-Leto"
+Date "2021-01-28"
+Rev "0.1"
+Comp "SuperPower Team"
+Comment1 "Drawn By: Seth Kazarians"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -117,8 +117,6 @@ Text HLabel 5400 2200 0    50   Input ~ 0
 Vin(5V)
 NoConn ~ 5900 2300
 NoConn ~ 6000 2300
-Text Notes 1200 2500 0    50   ~ 0
-Pins to STM32:\nGPIO5 to trigger update\nGPIO4 to indicate reboot/restart
 Text HLabel 6800 3300 2    50   BiDi ~ 0
 GPIO4
 Wire Wire Line

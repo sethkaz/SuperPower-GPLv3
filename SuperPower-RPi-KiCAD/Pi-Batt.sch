@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 5 8
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "SuperPower-Leto"
+Date "2021-01-28"
+Rev "0.1"
+Comp "SuperPower Team"
+Comment1 "Drawn By: Seth Kazarians"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -235,8 +235,6 @@ Wire Wire Line
 Connection ~ 4100 6250
 Wire Wire Line
 	4100 6250 4100 6000
-Text Notes 5600 2000 0    50   ~ 0
-SSM3J328R
 $Comp
 L Manual_Lib:Q_PMOS_DMP3056L-7_SOT-23 Q1
 U 1 1 5FCC9BCC

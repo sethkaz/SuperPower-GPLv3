@@ -4,11 +4,11 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 7 8
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "SuperPower-Leto"
+Date "2021-01-28"
+Rev "0.1"
+Comp "SuperPower Team"
+Comment1 "Drawn By: Seth Kazarians"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -59,8 +59,6 @@ Wire Wire Line
 Connection ~ 4200 4950
 Wire Wire Line
 	4200 4950 4250 4950
-Text Notes 3450 10700 0    50   ~ 0
-I2C Pins: (SDA/SCL)\nI2C1: PB7/PB6 <--\nI2C2: PB3/PB10\nI2C3: PC9/PA8 
 Wire Wire Line
 	3050 7750 3450 7750
 $Comp

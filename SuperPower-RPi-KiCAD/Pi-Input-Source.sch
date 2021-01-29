@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 4 8
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "SuperPower-Leto"
+Date "2021-01-28"
+Rev "0.1"
+Comp "SuperPower Team"
+Comment1 "Drawn By: Seth Kazarians"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -113,8 +113,6 @@ F 3 "" H 4550 3800 50  0001 C CNN
 $EndComp
 Text HLabel 9550 3000 2    50   Output ~ 0
 Vout
-Text Notes 1900 6400 0    50   ~ 0
-NOTE:\nscrew-terminals for solar.  
 $Comp
 L Device:D_Zener_Small D3
 U 1 1 5FA88013

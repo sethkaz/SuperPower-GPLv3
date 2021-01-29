@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 8
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "SuperPower-Leto"
+Date "2021-01-28"
+Rev "0.1"
+Comp "SuperPower Team"
+Comment1 "Drawn By: Seth Kazarians"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -215,10 +215,6 @@ Wire Wire Line
 	4700 2050 4700 3950
 Wire Wire Line
 	4700 3950 4500 3950
-Text Notes 750  7400 0    50   ~ 0
-Alternate Parts:\nPMOS: Consider using DMP4025SFGQ-13 for better performance or DMP6023LE-13 for easier soldering.
-Text Notes 7150 6100 0    50   ~ 0
-TO DO:\nAdd Test Points to STM Pins.
 Wire Wire Line
 	8400 3650 9350 3650
 Wire Wire Line
@@ -326,6 +322,4 @@ F 4 "DNP" H 7950 1400 50  0001 C CNN "Mfg"
 $EndComp
 Wire Wire Line
 	8050 1400 8900 1400
-Text Notes 7150 5600 0    50   ~ 0
-Would be nice:\nUSB output connector to power \n
 $EndSCHEMATC

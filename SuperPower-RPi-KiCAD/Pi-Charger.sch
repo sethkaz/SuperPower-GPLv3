@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 6 8
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "SuperPower-Leto"
+Date "2021-01-28"
+Rev "0.1"
+Comp "SuperPower Team"
+Comment1 "Drawn By: Seth Kazarians"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -389,7 +389,7 @@ F 4 "DNP" H 6150 4150 50  0001 C CNN "Mfg"
 	0    1    1    0   
 $EndComp
 Text Notes 1200 6600 0    50   ~ 0
-NOTE:\nChange footprint to use 0.3mm vias for BQ25895 and TPS61088
+NOTE:\nChanged footprint to use 0.3mm vias for BQ25895 and TPS61088
 $Comp
 L Device:C_Small C26
 U 1 1 5FA1C98A
@@ -498,8 +498,6 @@ F 4 "DNP" H 5050 4700 50  0001 C CNN "Mfg"
 $EndComp
 Wire Wire Line
 	5050 4800 5050 4900
-Text Notes 1700 3750 0    50   ~ 0
-Consider adding connection to ADC pin or device for ILIM
 Text HLabel 4200 3550 0    50   Output ~ 0
 IMEAS
 Wire Wire Line
